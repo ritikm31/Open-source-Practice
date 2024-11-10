@@ -9,3 +9,8 @@ https://github.com/yatulearn/yatulearn/pull/442/
 https://github.com/Tejashri-Taral/TrendTrove-Ecommerce/pull/792
 
 https://github.com/mansiruhil13/Bobble-AI/pull/1228
+
+https://github.com/PriyaGhosal/BuddyTrail/issues/1944
+
+
+
